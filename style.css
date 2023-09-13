@@ -3,3 +3,18 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  align-items: center;
+
+}
+div {
+display: contents;
+flex-direction: column;
+justify-content: space-around;
+
+}
+img {
+  width: 50%;
+  height: 50%;
+}
+
